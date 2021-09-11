@@ -1,3 +1,0 @@
-1;Informatica
-2;BioTecnologia
-3;Alimentos
